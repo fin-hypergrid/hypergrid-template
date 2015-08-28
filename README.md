@@ -34,6 +34,7 @@ Gulp performs the following tasks:
 Continue your development...
 
 Watchify watches your `src/js/**/*.js` files and whenever you save, it runs the following:
+
 1. Runs **jshint**: Checks your JavaScript syntax
 2. Runs **prettify**: Normalizes your syntax (modifies your files)
 3. Runs **browserify**: *(see above)*
