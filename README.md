@@ -30,7 +30,7 @@ Gulp performs the following tasks:
 4. Starts **browser-sync** in server mode using port 5000
 5. Automatically opens a browser window and points it to `http://localhost:5000`
 
-###Interate
+###Iterate
 Continue your development...
 
 Watchify watches your `src/js/**/*.js` files and whenever you save, it runs the following:
